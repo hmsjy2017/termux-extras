@@ -1,0 +1,49 @@
+Package: nali
+Version: 0.3.7
+Architecture: aarch64
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/zu1k/nali
+Description: An offline tool for querying IP geographic information and CDN provider.
+License: MIT
+Filename: dists/termux/extras/binary-aarch64/nali_0.3.7_aarch64.deb
+Size: 3539872
+MD5Sum: 7fc873b19b9dcfdb28ab2394a6f9c07a
+SHA1: 27f09759665843bae56678c253d7ab5c2c15c88c
+SHA256: df652d82dd9c18cb55877ecce210f5c6dd843f819997adb7ad5c54a01d48d5f8
+SHA512: afa5479562938c78fcd9374e4970f7e74ea6c0f8696a8156d8a266f4601b29a542b81c53be0e4a4514301700a0f5f528cfc2205feb31b0f210ba70b506c0c96e
+
+Package: ossutil
+Version: 1.7.9
+Architecture: aarch64
+Vendor: aliyun
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/aliyun/ossutil
+License: MIT
+Description: A user friendly command line tool to access AliCloud OSS.
+Filename: dists/termux/extras/binary-aarch64/ossutil_1.7.9_aarch64.deb
+Size: 3633476
+MD5Sum: c37cc8ca324624dd65699108aa7d6c64
+SHA1: ca2aec8b57b1f8ad595fa2d00c0013c9395a6323
+SHA256: 8d8c0e9cb1c4322665de096557c0eba82e2d1b587d22ff56ff8368d86ddf599a
+SHA512: 1d3863ebe136070411b481ce9655c369281372046793395820bc969ece34e42d7751afee6bb6a604662eea151289baa96d6881ab2377f4a7ee839a6d54e81061
+
+Package: transfer
+Version: 0.4.15
+Architecture: aarch64
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/Mikubill/transfer
+Description: Large file transfer tool with multiple file transfer services support
+License: MIT
+Filename: dists/termux/extras/binary-aarch64/transfer_0.4.15_aarch64.deb
+Size: 3577748
+MD5Sum: e8dbff12683e1dc18c37b2707fb8360f
+SHA1: 766fc629221288fd3215188c03f550c8936641a8
+SHA256: f76b72b8a81cb01ca4f9065d47ffef4a5b05cf88583a61f43524f338a5de00ee
+SHA512: 17b1cbd132b56c1567115849e4e205a78c96b3db2902695b98e02b9f98bec90f003a94796520be0d9301a56564ea953c6440490670a9ec2d4dbfadeb0856ad40
+
