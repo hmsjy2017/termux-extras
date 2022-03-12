@@ -1,4 +1,5 @@
 # Termux Extras
+ Languages: [简体中文](README.zh-CN.md) | English
 ## About
 This repo has some software not available in the Termux's official repository. All of them are compiled and packaged by me.
 ## Install
