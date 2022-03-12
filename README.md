@@ -2,6 +2,10 @@
  Languages: [简体中文](README.zh-CN.md) | English
 ## About
 This repo has some software not available in the Termux's official repository. All of them are compiled and packaged by me.
+## Packages
+- [ossutil](https://github.com/aliyun/ossutil) - A user friendly command line tool to access AliCloud OSS.
+- [transfer](https://github.com/Mikubill/transfer) - Large file transfer tool with multiple file transfer services support
+- [nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.
 ## Install
 - Create `sources.list.d` directory if it does not exist
 ```
