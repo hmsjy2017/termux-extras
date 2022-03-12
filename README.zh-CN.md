@@ -2,6 +2,10 @@
   语言：简体中文 | [English](README.md)
 ## 关于
 Termux 并非 Linux 环境，Linux arm64 软件不能在 Termux 上正常运行，重新编译才能使用。这个存储库里有一些我为 Termux 适配的软件。
+## 软件包
+- [ossutil](https://github.com/aliyun/ossutil) - 一个用户友好的命令行工具，用于访问阿里云 OSS。
+- [transfer](https://github.com/Mikubill/transfer) - 集合多个 API 的大文件传输工具
+- [nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.
 ## 安装
 - 如果 `sources.list.d` 目录不存在，则创建它：
 ```
