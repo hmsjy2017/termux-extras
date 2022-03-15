@@ -17,6 +17,9 @@ echo "deb [trusted=yes] https://termux-extras.iamsjy.com termux extras" > $PREFI
 
 对于中国大陆用户，推荐使用速度更快的节点：
 echo "deb [trusted=yes] https://public.sourcegcdn.com/tony/termux-extras termux extras" > $PREFIX/etc/apt/sources.list.d/termux-extras.list
+
+或 Coding 线路：
+echo "deb [trusted=yes] https://iamsjy.coding.net/p/packages/d/termux-extras/git/raw/master termux extras" > $PREFIX/etc/apt/sources.list.d/termux-extras.list
 ```
 - 更新 apt 源列表
 ```
