@@ -17,6 +17,10 @@ echo "deb [trusted=yes] https://termux-extras.iamsjy.com termux extras" > $PREFI
 
 For Chinese users: 
 echo "deb [trusted=yes] https://public.sourcegcdn.com/tony/termux-extras termux extras" > $PREFIX/etc/apt/sources.list.d/termux-extras.list
+
+or:
+
+echo "deb [trusted=yes] https://iamsjy.coding.net/p/packages/d/termux-extras/git/raw/master termux extras" > $PREFIX/etc/apt/sources.list.d/termux-extras.list
 ```
 - Update apt source lists
 ```
